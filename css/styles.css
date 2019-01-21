@@ -1,0 +1,51 @@
+/******************Tag selecters**************/
+h1 {
+  color: #000000;
+  font-style: normal;
+  font-size: 60px;
+}
+
+h3 {
+  color: #9a1ba0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 3%;
+}
+
+body {
+  background-color:#adccc7;
+}
+
+img:hover {
+  background-color: blue;
+}
+
+/******************Class selecters**************/
+.bacon {
+  background-color: red;
+}
+
+.fish {
+  background-color: green;
+}
+
+.experience {
+  background-color: #ffcd60;
+}
+
+.Contact {
+  background-color: #c8e8ed;
+}
+
+.skills {
+  background-color: #d1d1d1;
+}
+
+
+
+/******************ID selecters**************/
